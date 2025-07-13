@@ -50,7 +50,7 @@ Option B: Jupyter Notebook version (python)
    jupyter notebook task_manager.ipynb
 3. Run all cells to initialize the UI.
 
-##🤖 AI Support (Optional / Planned Features)
+## 🤖 AI Support (Optional / Planned Features)
 While AI is not currently integrated, future enhancements could include:
 
 💡 Smart priority suggestions based on deadlines or task history
@@ -59,13 +59,13 @@ While AI is not currently integrated, future enhancements could include:
 
 📈 Predictive task completion tracking
 
-##📄 License
+## 📄 License
 MIT License
 
 
 ---
 
-##👤 Author
+## 👤 Author
 Created by [Septian]. Contributions are welcome!
 
 
